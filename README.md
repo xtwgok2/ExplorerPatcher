@@ -58,3 +58,8 @@ Items marked with "bug" that are still "Open" represent known issues. Active wor
 * [How does this work?](https://github.com/valinet/ExplorerPatcher/wiki/How-does-it-work)
 * [About antivirus false positives](https://github.com/valinet/ExplorerPatcher/wiki/Antivirus-false-positives)
 * [Compiling](https://github.com/valinet/ExplorerPatcher/wiki/Compiling)
+
+
+## Preview Release
+
+* https://github.com/xtwgok2/PatcherExplorer-Realease
